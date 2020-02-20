@@ -1,1 +1,1 @@
-# sqltools
+# Collection of SQL Scripts
